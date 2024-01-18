@@ -776,6 +776,9 @@ font-size: 50px
 #sh{
 text-align: center;
 margin-top: 140px;
+font-weight: bold;
+font-size: 30px;
+/* color:salmon; */
 /* color: ; */
 }
 .second{
